@@ -1,3 +1,3 @@
 # DevOps
 
-Name: Radu Stingaciu
+Name: Rahel Rutschmann
